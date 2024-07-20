@@ -1,8 +1,10 @@
-# 🚀 Welcome to My LeetCode Solutions Repository
+# <p style="text-align: center; font-size: 28px; font-family: 'Comic Sans MS', cursive;"><b>🚀 Welcome to My LeetCode Solutions Repository</b></p>
 
 Explore a curated collection of solutions to conquer LeetCode challenges, neatly organized by difficulty level for effortless learning and mastery.
 
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 
 
 ## 📂 Directory Structure
