@@ -20,7 +20,7 @@ Contributions are welcome! If you have a better solution or want to suggest impr
 
 ## Feedback
 
-If you have any questions, suggestions, or just want to connect, you can reach out to me via [Email](mailto:rajputaadihr@gmail.com0 or [LinkedIn](https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/aditya-rajput-aadi/)).
+If you have any questions, suggestions, or just want to connect, you can reach out to me via [Email](mailto:rajputaadihr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/aditya-rajput-aadi/)).
 
 Happy coding!
 
