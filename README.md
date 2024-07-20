@@ -23,3 +23,27 @@ Contributions are welcome! If you have a better solution or want to suggest impr
 If you have any questions, suggestions, or just want to connect, you can reach out to me via [Email](mailto:rajputaadihr@gmail.com0 or [LinkedIn](https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/aditya-rajput-aadi/)).
 
 Happy coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajputaadi/LeetCode/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajputaadi/LeetCode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajputaadi/LeetCode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajputaadi/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajputaadi/LeetCode/tree/master/0148-sort-list) |
+<!---LeetCode Topics End-->
