@@ -43,7 +43,7 @@ Your feedback helps enhance this repository for all users.
 
 ## 🎯 LeetCode Profile
 
-[![LeetCode Profile](https://leetcode.com/{rajputaadi}/card/)](https://leetcode.com/{rajputaadi}/)
+<img src="https://leetcard.jacoblin.cool/rajputaadi?theme=dark&font=PT%20Mono&ext=heatmap">
 
 
 <!---LeetCode Topics-->
