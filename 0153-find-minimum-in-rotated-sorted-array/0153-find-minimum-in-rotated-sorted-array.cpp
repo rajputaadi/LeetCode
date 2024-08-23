@@ -11,12 +11,14 @@ public:
                     min = arr[low];
                 }
                 low++;
+                high--;
             }
             else{
                 if(arr[high] < min){
                     min = arr[high];
                 }
                 high--;
+                low++;
             }
         }
         return min;
